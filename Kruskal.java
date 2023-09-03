@@ -1,12 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-
-/**
- *
- * @author Ppran
- */
+//find minimum cost spanning tree of give connected undirected graphusing kruskals algorithm
 import java.util.Scanner;
 public class Kruskal {
 int parent[]=new int[10];
