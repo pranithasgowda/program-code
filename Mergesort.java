@@ -1,4 +1,4 @@
-
+//sort the elements using merge sort
 import java.util.Scanner;
 import java.util.Random;
 public class Mergesort
