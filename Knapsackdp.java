@@ -1,3 +1,4 @@
+//java program to solve o/i knapsack problem using dynamic programming method
 import java.util.Scanner;
 public class Knapsackdp {
     public void solve(int wt[], int val[], int m, int n)
