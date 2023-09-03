@@ -1,3 +1,4 @@
+//find all pairs shortest path using floyds algorithm
 import java.util.Scanner;
 public class Floyd {
  void flyd(int w[][],int n)
